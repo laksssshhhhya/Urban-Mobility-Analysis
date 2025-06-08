@@ -239,7 +239,7 @@ The dashboard can reveal insights such as:
 
 ### **Planned Features**
 
-- [.] **Time Series Analysis**: Historical trend visualization
+- [ ] **Time Series Analysis**: Historical trend visualization
 - [ ] **Predictive Analytics**: Demand forecasting models
 - [ ] **Real-time Data**: Live data streaming capabilities
 - [ ] **Mobile Optimization**: Responsive design for mobile devices
