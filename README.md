@@ -227,11 +227,11 @@ The dashboard will open automatically in your default browser at `http://localho
 
 The dashboard can reveal insights such as:
 
-- ** Top Performing Cities**: "New York generates 34% of total revenue"
-- ** Payment Preferences**: "Credit card usage dominates in urban areas"
-- ** Seasonal Patterns**: "Trip volumes peak during holiday seasons"
-- ** Company Market Share**: "Company A leads with 45% market share"
-- ** Customer Demographics**: "Millennial customers prefer mobile payments"
+- **Top Performing Cities**: "New York generates 34% of total revenue"
+- **Payment Preferences**: "Credit card usage dominates in urban areas"
+- **Seasonal Patterns**: "Trip volumes peak during holiday seasons"
+- **Company Market Share**: "Company A leads with 45% market share"
+- **Customer Demographics**: "Millennial customers prefer mobile payments"
 
 ---
 
